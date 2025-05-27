@@ -116,5 +116,6 @@ PCB 3D
 
 ##
 
-
+การทดสอบกับโดรน
+![S__8241198](https://github.com/user-attachments/assets/7b4db082-37f1-4d2c-b2f9-266358e137db)
 
